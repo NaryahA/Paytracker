@@ -1,11 +1,12 @@
 # Paytracker
 
-AS A payroll manager for a companuy
+AS A payroll manager for a company
 I WANT AN employee payroll tracker using their first name, last name and salary 
 SO THAT I can see my employees' payroll data and properly budget for the company
 
 Deployed Link:
-http://127.0.0.1:5500/assets/index.html
+https://naryaha.github.io/Paytracker/
 
-GIT hub:
-git@github.com:NaryahA/Paytracker.git
+GIT hub Repo:
+https://github.com/NaryahA/Paytracker
+(![Project Screenshot](./assets/Screenshot.png))
